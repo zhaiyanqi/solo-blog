@@ -10,6 +10,7 @@ zhaiyanqi 的个人博客
 
 ### 最新
 
+* [谈谈 Redis](http://blog.zhaiyanqi.cn/articles/2019/08/13/1565684293475.html)
 * [荷兰国旗问题](http://blog.zhaiyanqi.cn/articles/2019/08/10/1565430790027.html)
 * [深入理解迭代器](http://blog.zhaiyanqi.cn/articles/2019/08/10/1565421145667.html)
 * [快速失败和安全失败](http://blog.zhaiyanqi.cn/articles/2019/08/10/1565417822215.html)
