@@ -10,6 +10,7 @@ zhaiyanqi 的个人博客
 
 ### 最新
 
+* [MySQL](http://blog.zhaiyanqi.cn/articles/2019/08/29/1567059890134.html)
 * [Java 中的动态代理](http://blog.zhaiyanqi.cn/articles/2019/08/18/1566119352940.html)
 * [TODO List](http://blog.zhaiyanqi.cn/articles/2019/08/15/1565845863536.html)
 * [谈谈 Redis](http://blog.zhaiyanqi.cn/articles/2019/08/13/1565684293475.html)
